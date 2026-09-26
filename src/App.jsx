@@ -47,8 +47,8 @@ export default function App() {
           <p>I’d love to hear from you. Replace this with your own email address.</p>
           <a className="button light" href="mailto:your.email@example.com">Say hello</a>
           <div className="social-links">
-            <a href="https://github.com/your-username" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://www.linkedin.com/in/your-username" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://github.com/sofie-99" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/sofie-saini-99a949420" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </section>
       </main>
