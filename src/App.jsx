@@ -9,7 +9,7 @@ const projects = [
 function Nav() {
   return (
     <nav className="nav" aria-label="Main navigation">
-      <a className="logo" href="#home">YN<span>.</span></a>
+      <a className="logo" href="#home">Sofie Saini<span>.</span></a>
       <div className="nav-links">
         <a href="#about">About</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
       </div>
@@ -24,7 +24,7 @@ export default function App() {
       <main>
         <section className="hero" id="home">
           <p className="eyebrow">Hello, I’m</p>
-          <h1>Your Name.</h1>
+          <h1>Sofie.</h1>
           <h2>I build, learn, and create.</h2>
           <p className="hero-copy">I’m a student and aspiring <strong>your career goal</strong> who enjoys using technology to solve meaningful problems.</p>
           <a className="button" href="#projects">See my work <span aria-hidden="true">↓</span></a>
@@ -33,8 +33,7 @@ export default function App() {
         <section className="section about" id="about">
           <div><p className="eyebrow">A little about me</p><h2>More than a résumé.</h2></div>
           <div className="about-copy">
-            <p>Write a few sentences here about who you are, what you’re studying or working on, and the kinds of problems you want to help solve.</p>
-            <p>This is also a great spot to mention communities, hobbies, or values that shape how you approach your work.</p>
+            <p>I'm a freshman Computer Science major at Cal Poly. I know Python and C#. I'm currently learning JavaScript, TypeScript, and React.</p>
           </div>
         </section>
 
