@@ -1,7 +1,7 @@
 import ProjectCard from './components/ProjectCard.jsx'
 
 const projects = [
-  { title: 'Project One', description: 'A short description of something you built, researched, designed, or care about.', tags: ['React', 'CSS'], link: '#contact' },
+  { title: 'Project One', description: 'This is a resume grader that uses the Gemini API to grade your resume.', tags: ['React', 'CSS'], link: 'https://github.com/sofie-99/Resume-Grader' },
   { title: 'Project Two', description: 'Use this card to share a class project, organization, internship, or personal interest.', tags: ['JavaScript', 'Design'], link: '#contact' },
   { title: 'Project Three', description: 'Your website does not need to be finished to show what you are learning and creating.', tags: ['Learning', 'Growth'], link: '#contact' },
 ]
